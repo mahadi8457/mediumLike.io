@@ -8637,7 +8637,7 @@ readers do not read off random characters that represent icons */
 
 /* BASE STYLES */
 #header {
-  background-image: url("../../img/bg/bg.jpg");
+  background-image: url("../img/bg/bg.jpg");
   background-size: cover;
   background-position: center;
   height: 700px; }
@@ -8684,14 +8684,14 @@ p {
   display: inline-block; }
 
 #subcribe {
-  background-image: url("../../img/bg/footer.jpg");
+  background-image: url("../img/bg/footer.jpg");
   background-size: cover;
   background-position: center;
   height: 200px;
   display: table; }
 
 #ft-left {
-  background-image: url("../../img/bg/footer-left.jpg");
+  background-image: url("../img/bg/footer-left.jpg");
   background-size: cover;
   background-position: center;
   height: 200px;
@@ -8709,7 +8709,7 @@ p {
     font-family: "Gentium Book Basic", serif; }
 
 #ft-right {
-  background-image: url("../../img/bg/footer-right.jpg");
+  background-image: url("../img/bg/footer-right.jpg");
   background-size: cover;
   background-position: center;
   height: 200px;
