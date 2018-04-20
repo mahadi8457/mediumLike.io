@@ -8737,7 +8737,15 @@ p {
   margin: 70px 50px 50px 50px;
   display: table-cell;
   text-align: center;
-  vertical-align: middle; }
+  vertical-align: middle;
+  text-transform: uppercase;
+  font-weight: bold; }
+
+.blockquote {
+  border: none !important;
+  font-family: "Gentium Book Basic", serif !important;
+  color: #626262;
+  font-size: 28px !important; }
 
 /* LAYOUTS */
 /* MODULES */
