@@ -8644,11 +8644,11 @@ readers do not read off random characters that represent icons */
   width: 100%; }
 
 h1 {
-  font-size: 46px;
+  font-size: 4.6rem;
   font-family: "Gentium Book Basic", serif; }
 
 h2 {
-  font-size: 25px;
+  font-size: 2.5rem;
   font-family: "Gentium Book Basic", serif;
   font-style: italic;
   color: #d7d7d7; }
@@ -8658,7 +8658,7 @@ hr {
 
 p {
   font-family: "Gentium Book Basic", serif;
-  font-size: 15px;
+  font-size: 1.5rem;
   line-height: 30px;
   word-spacing: 5px; }
 
