@@ -1,0 +1,713 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"col-sm-",
+				"col-md-offset-2"
+			],
+			[
+				"botto",
+				"bottom-left"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"onC",
+				"onclick\tAttr"
+			],
+			[
+				"Di",
+				"display"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"btn",
+				"btn-lg"
+			],
+			[
+				"widge",
+				"widget-title"
+			],
+			[
+				"af",
+				"after_title"
+			],
+			[
+				"bef",
+				"before_title"
+			],
+			[
+				"be",
+				"before_title"
+			],
+			[
+				"befor",
+				"before_widget"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"register",
+				"register_sidebar"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"widget",
+				"widgets_init"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"pu",
+				"pull-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"DI",
+				"DIV\tTag"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"P",
+				"_POST"
+			],
+			[
+				"SE",
+				"_SESSION"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"bindp",
+				"db2_bind_param"
+			],
+			[
+				"s",
+				"stmt1"
+			],
+			[
+				"erro",
+				"error_reporting"
+			],
+			[
+				"D",
+				"Department"
+			],
+			[
+				"dep",
+				"dept_id"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"d",
+				"dotted"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sass/0-plugins/_plugins-dir.sass",
+			"settings":
+			{
+				"buffer_size": 345,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/app.sass",
+			"settings":
+			{
+				"buffer_size": 315,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/1-base/_base-dir.sass",
+			"settings":
+			{
+				"buffer_size": 126,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/1-base/_base.sass",
+			"settings":
+			{
+				"buffer_size": 2006,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "_base.sass"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5394,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"material theme: Active",
+				"Material Theme: Activate theme"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Install Package Control"
+			],
+			[
+				"pakage",
+				"Install Package Control"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Dev.Env/mediumLike",
+		"/C/Dev.Env/mediumLike/css",
+		"/C/Dev.Env/mediumLike/sass"
+	],
+	"file_history":
+	[
+		"/C/Dev.Env/mediumLike/sass/_variables.sass",
+		"/C/Dev.Env/mediumLike/css/app.css",
+		"/C/Dev.Env/structure/index.html",
+		"/C/Dev.Env/structure/css/app.css",
+		"/C/Dev.Env/structure/sass/0-plugins/_plugins-dir.sass",
+		"/C/Dev.Env/structure/sass/app.sass",
+		"/C/Dev.Env/structure/bower_components/jquery/bower.json",
+		"/C/Dev.Env/Class8Hw/index.html",
+		"/C/Users/Cyclops/OneDrive/ButtonSASS/index.html",
+		"/C/Users/Cyclops/OneDrive/ButtonSASS/css/app.css",
+		"/C/Dev.Env/Tiney-1/css/app.css",
+		"/C/Dev.Env/Students-List/imports/startup/accounts-config.js",
+		"/C/Dev.Env/Students-List/client/main.js",
+		"/C/Dev.Env/w3.css",
+		"/C/Dev.Env/Students-List/client/main.css",
+		"/C/Dev.Env/Students-List/imports/api/tasks.js",
+		"/C/Dev.Env/Students-List/imports/ui/body.html",
+		"/C/Dev.Env/Students-List/imports/ui/body.js",
+		"/C/Dev.Env/Students-List/imports/ui/main.js",
+		"/C/Dev.Env/Students-List/imports/ui/task.html",
+		"/C/Dev.Env/Students-List/imports/ui/task.js",
+		"/C/Dev.Env/Students-List/imports/ui/tasks.html",
+		"/C/Dev.Env/Students-List/server/main.js",
+		"/C/xampp/htdocs/Class8Hw/index.html",
+		"/C/xampp/htdocs/Class8Hw/sass/app.sass",
+		"/C/xampp/htdocs/class 8/class 8/style.css",
+		"/C/xampp/htdocs/class 8/class 8/index.html",
+		"/C/xampp/htdocs/Class8Hw/css/app.css",
+		"/C/Users/Cyclops/OneDrive/Dev.Env/Todo/client/main.js",
+		"/C/Users/Cyclops/OneDrive/Dev.Env/Todo/imports/ui/task.js",
+		"/C/Users/Cyclops/OneDrive/Dev.Env/Todo/imports/ui/body.js",
+		"/C/Users/Cyclops/OneDrive/Dev.Env/Todo/imports/api/tasks.js",
+		"/C/Users/Cyclops/less_sandbox/component_header_cod_313_process/component.html",
+		"/C/Users/Cyclops/OneDrive/ButtonSASS/sass/app.sass",
+		"/C/Users/Cyclops/OneDrive/ButtonSASS/js/main.js",
+		"/C/Users/Cyclops/OneDrive/ButtonSASS/sass/app.scss",
+		"/C/Users/Cyclops/Desktop/HW4/sass/app.scss",
+		"/C/Users/Cyclops/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/Cyclops/AppData/Local/Temp/fz3temp-2/archive.php",
+		"/C/Users/Cyclops/AppData/Local/Temp/fz3temp-2/class-wp-theme.php",
+		"/C/Users/Cyclops/Desktop/californiagymbd/californiagymbd/style.css",
+		"/C/Users/Cyclops/Desktop/californiagymbd/californiagymbd/js/main.js",
+		"/C/Users/Cyclops/Desktop/californiagymbd/californiagymbd/css/bootstrap.css",
+		"/C/Users/Cyclops/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Cyclops/Desktop/web class 3/style.css",
+		"/C/Users/Cyclops/AppData/Local/Temp/fz3temp-2/main.js",
+		"/C/Users/Cyclops/AppData/Local/Temp/Temp1_shopkeeper-child.zip/shopkeeper-child/style.css",
+		"/C/Users/Cyclops/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/xampp/htdocs/california/css/style.css",
+		"/C/Users/Cyclops/Downloads/wp-config.php",
+		"/C/xampp/htdocs/token/pdo/Get_id.php",
+		"/C/xampp/htdocs/token/chat/index.php",
+		"/C/xampp/htdocs/token/index.php",
+		"/C/xampp/htdocs/token/Reg/index.php",
+		"/C/xampp/htdocs/ecard/Auth/class.user.php",
+		"/C/xampp/htdocs/california/index.html",
+		"/C/xampp/htdocs/token/ticket.php",
+		"/C/xampp/htdocs/token/search.php",
+		"/C/xampp/htdocs/california/css/owl.theme.default.min.css",
+		"/C/xampp/htdocs/california/sass/style.scss",
+		"/C/xampp/htdocs/token/includes/backNav.php",
+		"/C/xampp/htdocs/token/includes/nav.php",
+		"/C/Users/Cyclops/less_sandbox/Mache Template/index.html",
+		"/C/xampp/htdocs/token/css/font1.css",
+		"/C/xampp/htdocs/token/css/font2.css",
+		"/C/Users/Cyclops/less_sandbox/Mache Template/assets/css/styles.css",
+		"/C/Users/Cyclops/Desktop/homeWork/index.html",
+		"/C/Users/Cyclops/Desktop/homeWork/assets/css/styles.css",
+		"/C/Users/Cyclops/Desktop/sdfg/component_header_cod_323/component_header_cod_323/component.html",
+		"/C/Users/Cyclops/Desktop/sdfg/component_header_cod_323/component_header_cod_323/backup.html",
+		"/C/Users/Cyclops/Desktop/sdfg/component_header_cod_323/component_header_cod_323/assets/css/component_header_cod_313.less",
+		"/C/Users/Cyclops/less_sandbox/COMPONENT_HEADER_COD_313 HEADER Y/assets/css/style.css",
+		"/C/Users/Cyclops/Desktop/homework 2/COMPONENT_HEADER_COD_313 HEADER Y/assets/css/help.css",
+		"/C/Users/Cyclops/Desktop/homework 2/COMPONENT_HEADER_COD_313 HEADER Y/index.html",
+		"/C/Users/Cyclops/less_sandbox/COMPONENT_HEADER_COD_313 HEADER Y/index.html",
+		"/C/Users/Cyclops/Desktop/homework 2/component_header_cod_323/dependencies.json",
+		"/C/Users/Cyclops/Desktop/homework 2/COMPONENT_HEADER_COD_313 HEADER Y/css/help mobile.css",
+		"/C/Users/Cyclops/Desktop/homework 2/COMPONENT_HEADER_COD_313 HEADER Y/assets/js/component_header_cod_323.js",
+		"/C/Users/Cyclops/Desktop/homework 2/component_header_cod_313/backup.html",
+		"/C/Users/Cyclops/Desktop/homework 2/COMPONENT_HEADER_COD_313 HEADER Y/css/style.css",
+		"/C/Users/Cyclops/Desktop/homework 2/COMPONENT_HEADER_COD_313 HEADER Y/css/help.css",
+		"/C/Users/Cyclops/Desktop/homework 2/COMPONENT_HEADER_COD_313 HEADER Y/js/help.js",
+		"/C/Users/Cyclops/Desktop/test/index.html",
+		"/C/Users/Cyclops/Desktop/homework 2/New folder/products.html",
+		"/C/Users/Cyclops/Desktop/homework 2/New folder/css/style.css",
+		"/C/Users/Cyclops/Desktop/homework 2/New folder/index.html",
+		"/C/Users/Cyclops/Desktop/homeWork/assets/js/script.js",
+		"/E/Halping Hands/WordPress Theme Development with Bootstrap/Website Redesign/products-wb04s665s/startup-kit/index.html",
+		"/C/xampp/htdocs/ecard/birthReg.php",
+		"/C/xampp/htdocs/ecard/Auth/signup.php",
+		"/E/Halping Hands/WordPress Theme Development with Bootstrap/Website Redesign/products-wb04s665s/startup-kit/assets/css/styles.css",
+		"/C/xampp/htdocs/Sir/PD/generatekey.php",
+		"/C/xampp/htdocs/Sir/BSA/viewpost.php",
+		"/C/xampp/htdocs/Sir/PD/config.php",
+		"/C/xampp/htdocs/Sir/PD/report.php",
+		"/C/xampp/htdocs/Sir/BSA/.htaccess",
+		"/C/xampp/htdocs/Sir/BSA/includes/config.php",
+		"/C/xampp/htdocs/Delete/upgrade.php",
+		"/C/xampp/htdocs/Delete/index.php",
+		"/C/xampp/htdocs/Delete/main.php",
+		"/C/xampp/htdocs/Delete/info.php",
+		"/C/xampp/htdocs/Delete/add_person.php",
+		"/C/xampp/htdocs/Delete/add_person_query.php",
+		"/C/xampp/htdocs/ecard/index.php",
+		"/C/xampp/htdocs/ecard/includes/headerNsidebar.php",
+		"/C/xampp/htdocs/ecard/Auth/logout.php",
+		"/C/xampp/htdocs/ecard/Auth/home.php",
+		"/C/xampp/htdocs/ecard/Auth/verify.php",
+		"/C/xampp/htdocs/ecard/Auth/dbconfig.php",
+		"/C/xampp/htdocs/ecard/login.php",
+		"/C/xampp/htdocs/ecard/Auth/index.php",
+		"/C/xampp/htdocs/ecard/birth-registration.php",
+		"/C/xampp/htdocs/ecard/health.php",
+		"/C/xampp/htdocs/ecard/eduction.php",
+		"/C/Users/Cyclops/Desktop/sql.txt",
+		"/C/xampp/htdocs/myProject/.env",
+		"/C/xampp/htdocs/Delete/delete_by_date.sql",
+		"/C/xampp/htdocs/Delete/emailONLY/main.php",
+		"/C/xampp/htdocs/Delete/sample/add_person_query.php",
+		"/C/xampp/htdocs/Delete/db.php",
+		"/C/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/C/xampp/htdocs/BITM/allocateRoom.php",
+		"/C/xampp/htdocs/BITM/dbpdo.php",
+		"/C/xampp/htdocs/BITM/class.user.php",
+		"/C/xampp/htdocs/BITM/saveTeacher.php",
+		"/C/xampp/htdocs/BITM/multimenu.php",
+		"/C/xampp/htdocs/BITM/viewDepartment.php",
+		"/C/xampp/htdocs/BITM/index.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"626262"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sass/0-plugins/_plugins-dir.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								345
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sass/app.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								315,
+								315
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sass/1-base/_base-dir.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sass/1-base/_base.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"auto_name": "_base.sass",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4092,
+								4092
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 756.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mediumlike.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
