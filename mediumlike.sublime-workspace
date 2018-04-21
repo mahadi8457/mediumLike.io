@@ -4,8 +4,24 @@
 		"selected_items":
 		[
 			[
+				"col-",
+				"col-lg-offset-2"
+			],
+			[
+				"col",
+				"col-sm-offset-2"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
 				"font",
-				"font-weight"
+				"font-size"
+			],
+			[
+				"bord",
+				"border"
 			],
 			[
 				"fo",
@@ -238,7 +254,7 @@
 			"file": "sass/1-base/_base.sass",
 			"settings":
 			{
-				"buffer_size": 2006,
+				"buffer_size": 2259,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "_base.sass"
@@ -248,7 +264,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5394,
+				"buffer_size": 5313,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -308,10 +324,12 @@
 	[
 		"/C/Dev.Env/mediumLike",
 		"/C/Dev.Env/mediumLike/css",
+		"/C/Dev.Env/mediumLike/img",
 		"/C/Dev.Env/mediumLike/sass"
 	],
 	"file_history":
 	[
+		"/C/Users/Cyclops/less_sandbox/component_header_cod_313_process/assets/css/component_header_cod_313.css",
 		"/C/Dev.Env/mediumLike/sass/_variables.sass",
 		"/C/Dev.Env/mediumLike/css/app.css",
 		"/C/Dev.Env/structure/index.html",
@@ -438,8 +456,7 @@
 		"/C/xampp/htdocs/BITM/class.user.php",
 		"/C/xampp/htdocs/BITM/saveTeacher.php",
 		"/C/xampp/htdocs/BITM/multimenu.php",
-		"/C/xampp/htdocs/BITM/viewDepartment.php",
-		"/C/xampp/htdocs/BITM/index.php"
+		"/C/xampp/htdocs/BITM/viewDepartment.php"
 	],
 	"find":
 	{
@@ -475,7 +492,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -571,15 +588,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2006,
+						"buffer_size": 2259,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								136,
-								136
+								812,
+								812
 							]
 						],
 						"settings":
@@ -589,10 +606,10 @@
 							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 594.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -601,15 +618,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5394,
+						"buffer_size": 5313,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4092,
-								4092
+								4429,
+								4429
 							]
 						],
 						"settings":
@@ -619,10 +636,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 756.0,
+						"translation.y": 1512.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
